@@ -1,4 +1,4 @@
-# Hi, I'm Bjar 👋
+# Hi, I'm Ijar, just call me Jars 👋
 
 ## Design Tools
 <img src="https://skillicons.dev/icons?i=figma,ps" />
