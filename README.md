@@ -7,7 +7,7 @@
 <img src="https://skillicons.dev/icons?i=go,github,vscode,r" />
 
 ## Currently Learning
-<img src="https://skillicons.dev/icons?i=go,r" />
+<img src="https://skillicons.dev/icons?i=go,r,github,vscode" />
 
 <!--
 **abidzarrochmadi-spec/abidzarrochmadi-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
