@@ -1,7 +1,7 @@
 # Hi, I'm Abidzarr, just call me Ijar 👋
 
 ## Design Tools
-<img src="https://skillicons.dev/icons?i=figma,ps" />
+<img src="https://skillicons.dev/icons?i=figma,ps,canva" />
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=go,github,vscode,r" />
