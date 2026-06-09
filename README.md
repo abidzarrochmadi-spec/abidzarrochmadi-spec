@@ -4,10 +4,10 @@
 <img src="https://skillicons.dev/icons?i=figma,ps" />
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=go,github,vscode,SQL" />
+<img src="https://skillicons.dev/icons?i=go,github,vscode,sql" />
 
 ## Currently Learning
-<img src="https://skillicons.dev/icons?i=go,SQL,R" />
+<img src="https://skillicons.dev/icons?i=go,sql,r" />
 
 <!--
 **abidzarrochmadi-spec/abidzarrochmadi-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
