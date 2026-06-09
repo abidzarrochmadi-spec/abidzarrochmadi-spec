@@ -1,13 +1,13 @@
-# Hi, I'm Ijar, just call me Jar 👋
+# Hi, I'm Abidzarr, just call me Ijar 👋
 
 ## Design Tools
 <img src="https://skillicons.dev/icons?i=figma,ps" />
 
 ## Tech Stack
-<img src="https://skillicons.dev/icons?i=go,github,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=go,github,vscode,SQL" />
 
 ## Currently Learning
-<img src="https://skillicons.dev/icons?i=go" />
+<img src="https://skillicons.dev/icons?i=go,SQL,R" />
 
 <!--
 **abidzarrochmadi-spec/abidzarrochmadi-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
